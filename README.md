@@ -1,5 +1,10 @@
 # PHP Redis Queue
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/leocarmo/php-redis-queue/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/leocarmo/php-redis-queue/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/leocarmo/php-redis-queue/badges/build.png?b=master)](https://scrutinizer-ci.com/g/leocarmo/php-redis-queue/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/leocarmo/php-redis-queue/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+[![Total Downloads](https://img.shields.io/packagist/dt/leocarmo/php-redis-queue.svg)](https://packagist.org/packages/leocarmo/php-redis-queue)
+
 ## Starting with composer
 `composer require leocarmo/php-redis-queue`
 
